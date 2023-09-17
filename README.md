@@ -1,7 +1,5 @@
 # EDC-Competition-2023
 
-![IEEE Sri Lanka Section]([https://ieee.lk/])
-
 ## Electronic Design Competition organized by IEEE Sri Lanka Section
 
 **Team Name:** DooS
