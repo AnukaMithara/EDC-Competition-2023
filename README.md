@@ -1,6 +1,6 @@
 # EDC-Competition-2023
 
-![IEEE Sri Lanka Section]([https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_logo.svg](https://ieee.lk/))
+![IEEE Sri Lanka Section]([https://ieee.lk/])
 
 ## Electronic Design Competition organized by IEEE Sri Lanka Section
 
